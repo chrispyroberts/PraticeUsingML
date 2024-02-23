@@ -24,7 +24,7 @@ Before proceeding with the analysis, I performed some data cleaning and explorat
 - Extracting and storing the quality and id columns before removal.
 - Converting the acidity column to numeric as it was incorrectly typed as object.
 - Plotting a correlation map to visualize the relationships between the attributes.
-- Splitting the dataset into training and test sets, which will enable me to train and evaluate the models on different subsets of data[8].
+- Splitting the dataset into training and test sets, which will enable me to train and evaluate the models on different subsets of data.
 
 ![alt text](DataCorrMatrix.png)
 
