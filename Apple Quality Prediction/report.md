@@ -20,6 +20,8 @@ Before proceeding with the analysis, I performed some data cleaning and explorat
 - Plotting a correlation map to visualize the relationships between the attributes.
 - Splitting the dataset into training and test sets, which will enable me to train and evaluate the models on different subsets of data[8].
 
+![alt text](DataCorrMatrix.png)
+
 ## Machine Learning Models and Evaluation
 
 To select a suitable machine learning model for predicting apple quality, I considered several factors, such as accuracy, interpretability, and computational efficiency[9][10]. I tried various classifiers, including logistic regression, decision tree, random forest, gradient boosting, SVM, KNN, naive Bayes, LightGBM, and MLP. The evaluation was based on:
@@ -51,6 +53,8 @@ To improve the MLP classifier's performance, I performed hyperparameter tuning w
 - **Activation function**: relu
 - **Hidden layer size**: (290,)[22]
 
+![alt text](ConfMatrixMPL.png)
+
 With these hyperparameters, the MLP classifier achieved an accuracy of 0.9475, precision of 0.9352, recall of 0.9550, and a ROC of 0.9479 on the test set, indicating an improvement.
 
 ## Neural Network Model with TensorFlow
@@ -63,6 +67,8 @@ To demonstrate proficiency in TensorFlow, I built a neural network model for app
 - Compiling the model with the adam optimizer, binary cross-entropy loss function, and accuracy metric[26].
 - Using callbacks like ReduceLROnPlateau and EarlyStopping during training.
 - Training the model with a validation split of 0.2 and evaluating it on the test set.
+
+![alt text](NNepochs.png)
 
 The evaluation results showed:
 
