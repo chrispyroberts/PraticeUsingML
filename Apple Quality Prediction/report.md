@@ -10,9 +10,7 @@ MLP (Multilayer Perceptron), Hyperparameter Tuning, Neural Network
 
 This report aims to showcase my skills in data analysis and machine learning by exploring and analyzing an Apple Quality dataset[1]. The dataset contains various attributes of apples, such as size, weight, sweetness, crunchiness, juiciness, ripeness, acidity, and quality rating. The quality rating is either good or bad, indicating whether the apple is suitable for consumption or not.
 
-The main objectives of this analysis are:
-
-- **Fruit Classification**: Categorizing apples based on their physical attributes and chemical properties[2]. This could be useful for identifying different types of apples or sorting them into groups based on their characteristics.
+Objecive:
 - **Quality Prediction**: Predicting the quality rating of apples using various attributes, which could be beneficial for quality control and sorting processes[3]. This could help reduce waste, improve customer satisfaction, and optimize production efficiency.
 
 ## Data Cleaning and Exploration
