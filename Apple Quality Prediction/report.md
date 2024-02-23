@@ -6,6 +6,9 @@ Pandas, Tensorflor, sklearn, Numpy, Matplotlib, seaborn, scipy
 ## Some keywords
 MLP (Multilayer Perceptron), Hyperparameter Tuning, Neural Network
 
+## Dataset
+![https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality](Kaggle Apple Quality)
+
 ## Introduction and Potential Use Cases
 
 This report aims to showcase my skills in data analysis and machine learning by exploring and analyzing an Apple Quality dataset. The dataset contains various attributes of apples, such as size, weight, sweetness, crunchiness, juiciness, ripeness, acidity, and quality rating. The quality rating is either good or bad, indicating whether the apple is suitable for consumption or not.
