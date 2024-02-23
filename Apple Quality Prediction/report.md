@@ -1,9 +1,9 @@
 # Apple Quality Prediction and Classification
 
-## Python Modules
+## Python modules that I used
 Pandas, Tensorflor, sklearn, Numpy, Matplotlib, seaborn, scipy
 
-## Keywords
+## Some keywords
 MLP (Multilayer Perceptron), Hyperparameter Tuning, Neural Network
 
 ## Introduction and Potential Use Cases
