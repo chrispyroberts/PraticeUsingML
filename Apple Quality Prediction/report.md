@@ -7,7 +7,7 @@ Pandas, Tensorflor, sklearn, Numpy, Matplotlib, seaborn, scipy
 MLP (Multilayer Perceptron), Hyperparameter Tuning, Neural Network
 
 ## Dataset
-!(Kaggle Apple Quality)[https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality]
+https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality 
 
 ## Introduction and Potential Use Cases
 
