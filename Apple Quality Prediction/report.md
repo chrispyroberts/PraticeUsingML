@@ -1,4 +1,3 @@
-```markdown
 # Apple Quality Prediction and Classification
 
 ## Introduction and Potential Use Cases
