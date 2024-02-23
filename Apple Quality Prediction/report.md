@@ -1,13 +1,13 @@
 # Apple Quality Prediction and Classification
 
+## Dataset
+https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality 
+
 ## Python modules that I used
 Pandas, Tensorflor, sklearn, Numpy, Matplotlib, seaborn, scipy
 
 ## Some keywords
 MLP (Multilayer Perceptron), Hyperparameter Tuning, Neural Network
-
-## Dataset
-https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality 
 
 ## Introduction and Potential Use Cases
 
