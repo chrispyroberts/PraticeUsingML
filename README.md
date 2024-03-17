@@ -1,5 +1,5 @@
 # PraticeUsingML
-A collection of my detailed notes on modern ML techniques, as well all the Kaggle datasets that I've built models for.
+A collection of my detailed notes on modern ML techniques, as well Kaggle datasets that I've built models for.
 
 Notes:
 
